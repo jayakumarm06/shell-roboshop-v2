@@ -4,7 +4,7 @@ app_name=catalogue
 
 source ./common.sh
 
-app_steup
+app_setup
 nodejs_setup
 systemd_setup
 
